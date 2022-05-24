@@ -1,0 +1,11 @@
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.photoAlbum.resources
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+D:\Sem2\C#_Sem2\Assignments\GSingh_Assignment3\GSingh_Assignment3\PhotoAlbum\obj\Debug\PhotoAlbum.createNewAlbum.resources
